@@ -1,6 +1,6 @@
-# Prolog-project1-Cribbage
+# Prolog project Cribbage
 
-comp90048_Declarative Programming
+### **COMP90048 Declarative Programming**
 
 The objective of this project is to practice and assess your understanding of logic programming and Prolog. You will write code to perform the major parts of a cribbage playing program.
 
